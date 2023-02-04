@@ -15,3 +15,5 @@ function Testimony() {
     </div>
   )
 }
+
+export default Testimony;
