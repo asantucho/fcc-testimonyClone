@@ -4,7 +4,10 @@ import Testimony from "./components/Testimony.jsx"
 function App() {
   return (
     <div className="App">
-      <Testimony />
+      <div className='main-container'>
+        <h1>Esto es lo que dicen nuestros alumnos sobre freeCodeCamp:</h1>
+        <Testimony /> 
+      </div>
     </div>
   );
 }
