@@ -11,4 +11,23 @@
 .testimony-container .image-testimony {
   height: 100%;
   width: auto;
+}
+.testimony-container .testimony-text-container {
+  text-align: center;
+  padding: 40px;
+  font-family: Lato, sans-serif;
+  font-weight: 400;
+  line-height: 1.5rem;
+}
+.testimony-container .testimony-text-container .name-testimony {
+  font-size: 1.3rem;
+}
+.testimony-container .testimony-text-container .job-testimony {
+  font-size: 1.3rem;
+  margin-top: 15px;
+  padding-bottom: 30px;
+}
+.testimony-container .testimony-text-container .text-testimony {
+  font-size: 1.3rem;
+  text-align: justify;
 }/*# sourceMappingURL=styles.css.map */
